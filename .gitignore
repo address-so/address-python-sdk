@@ -1,0 +1,5 @@
+.idea/**
+venv/**
+/*.py
+!/example.py
+__pycache__/
