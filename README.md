@@ -6,7 +6,12 @@ Python library for ADDRESS API integration. Full ADDRESS API features documentat
 
 * Python 3.6 or later
 
-## 2. Example
+## 2. Install
 
-You can find example [here](./example.py)
+```pip install address-so```
+
+## 3. Example
+
+You can find example [here](./example.py).
+
 

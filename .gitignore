@@ -2,4 +2,8 @@
 venv/**
 /*.py
 !/example.py
+!/setup.py
 __pycache__/
+dist/**
+build/**
+*.egg-info
